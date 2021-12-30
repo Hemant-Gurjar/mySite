@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 526.5%;
+  color: #66BFBF;
+  font-weight: 400;
+}
+
+h2 {
+  font-family: 'Glory', sans-serif;
+  font-size: 200%;
+    color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Glory', sans-serif;
+  color: #11999E;
+}
+
+a{
+    color: #11999E;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 5%;
+}
+
+p {
+  font-family: 'Glory', sans-serif;
+  font-size: 130%;
+}
+.intro{
+  margin-top: 0;
+}
+
+.profile-img {
+  border-radius: 100%;
+  margin-top: 15px;
+}
+
+.top-container {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 150px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain {
+  margin-top: 80px;
+}
